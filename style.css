@@ -1,0 +1,54 @@
+ul{
+    list-style-type: none;
+   display: inline;
+}
+header {
+    margin:0px 200px;
+    background-color: rgb(150,1500,800);
+    width:400px;
+    height:190px;
+    display: block;
+    border: 7px red solid;
+font-style:italic;
+font-weight: 1500;
+font-size:6mm;}
+
+header ul{
+    gap: 5px;
+    display:inline-flex;
+    flex-direction: row-reverse;
+ margin-top: 0px;
+ margin-right: 200px;
+} 
+
+main{
+    margin:0px  200px ;
+    font-size: 4mm;
+}
+aside{
+    border-left: 5px black solid;
+     margin-top:0px;
+     float: right;
+      width: 40%;
+      display: inline;
+      height: 1000px;
+     }
+footer{
+    margin-left:200px ;
+    margin-top:50px ;
+    font-weight: bold;
+    
+}
+li{
+    font-size: 7mm;
+}
+p{
+    font-size: 4svh;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color:rgb(28,500,2000);
+    text-decoration: underline double blue;
+    
+}
